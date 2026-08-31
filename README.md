@@ -4,7 +4,7 @@ A collection of Python automation tools built to automate repetitive tasks,
 work with files and data, and interact with APIs and external services.
 
 These projects were made as a demonstration of my skills in python
-and Automation.
+and automation.
 
 ---
 
@@ -119,4 +119,4 @@ faster and more efficient.
 
 Interested in a Python automation program?
 
-Feel free to contact me through my freelancing profiles or GitHub using my Email: y58951107@gmail.com.
+Feel free to contact me through my freelancing profiles or GitHub. You can also reach me by email at: y58951107@gmail.com
