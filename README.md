@@ -1,4 +1,4 @@
-# Python-Automation-Portfolio
+# Python Automation Portfolio
 
 A collection of Python automation tools built to automate repetitive tasks,
 work with files and data, and interact with APIs and external services.
