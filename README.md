@@ -7,7 +7,8 @@ These projects were made as a demonstration of my skills in python
 and automation.
 
 # Note when you download a project to try it out windows might flag it as a malicious app if you are on windows 10
-# just click more info and then click run anyway don't worry all the listed apps are tested and safe
+# just click more info and then click run anyway don't worry all the listed apps are tested and safe also
+# when you click on a project to download just click "view raw" to download the app
 
 ---
 
