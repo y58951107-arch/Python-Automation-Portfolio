@@ -63,7 +63,6 @@ data.
 - Processes JSON responses
 - Extracts useful information from API data
 - Can save collected data for later use
-- Note: will be imported soon.
 
 ---
 
