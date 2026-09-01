@@ -49,7 +49,6 @@ Automates common email tasks using Python.
 - Supports attachments
 - Handles email content programmatically
 - Designed for repetitive email workflows
-- Note: will be imported soon.
 
 ---
 
