@@ -14,7 +14,7 @@ and automation.
 
 ## Projects
 
-### 1. Downloads Organizer
+### 1. Folder Organizer
 
 Automatically organizes files in a Downloads folder based on their file
 extensions.
@@ -23,46 +23,6 @@ extensions.
 - Organizes images, documents, archives, and programs
 - Automatically creates category folders
 - Handles unknown file types
-
----
-
-### 2. Excel Cleaner
-
-Cleans Excel spreadsheets by automatically removing unnecessary duplicate
-and empty rows.
-
-**Features:**
-- Reads Excel workbooks
-- Detects completely empty rows
-- Detects duplicate rows
-- Removes unwanted data automatically
-- Saves a cleaned copy while preserving the original file
-
----
-
-### 3. Email Automation
-
-Automates common email tasks using Python.
-
-**Features:**
-- Sends emails automatically
-- Supports attachments
-- Handles email content programmatically
-- Designed for repetitive email workflows
-
----
-
-### 4. API Data Collector
-
-Uses APIs to retrieve information automatically and process the returned
-data.
-
-**Features:**
-- Sends HTTP requests
-- Communicates with APIs
-- Processes JSON responses
-- Extracts useful information from API data
-- Can save collected data for later use
 
 ---
 
